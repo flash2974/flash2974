@@ -5,7 +5,7 @@ Computer Engineering Student at Polytech Nantes (Master's level). Passionate abo
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="111" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="200" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="19999" alt="languages graph"  />
 </div>
 
 ###
