@@ -1,11 +1,11 @@
-<h2 align="left">Hello ! I am <span style="color:blue">Nathan Domenichini </span></h2>
+<h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
 Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations (Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations)
 
 ###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="200" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="19999" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="200" alt="languages graph"  />
 </div>
 
 ###
