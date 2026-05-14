@@ -52,7 +52,7 @@ def generate_readme():
 
     md = [
         f'<h2 align="left">{greeting["intro"]} <span style="color:#7F39CD">{greeting["name"]} </span></h2>',
-        f'{greeting["message"][0]} ({greeting["message"][0]})'
+        f'{greeting["message"][0]} ({greeting["message"][0]})',
         '',
         '###',
         '',
