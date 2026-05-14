@@ -1,43 +1,44 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
+    schedule:
+        - cron: "*/30 * * * *"
 
-  workflow_dispatch:
+    workflow_dispatch:
 
 jobs:
-  update:
-    runs-on: ubuntu-latest
+    update:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout README repo
-        uses: actions/checkout@v4
+        steps:
+            - name: Checkout website repo
+              uses: actions/checkout@v4
+              with:
+                  repository: flash2974/flash2974.github.io
+                  token: ${{ secrets.WEBSITE_TOKEN }}
+                  path: website
 
-      - name: Download private config.json
-        run: |
-          curl -L \
-            -H "Authorization: Bearer ${{ secrets.WEBSITE_TOKEN }}" \
-            -H "Accept: application/vnd.github+json" \
-            https://raw.githubusercontent.com/flash2974/flash2974.github.io/refs/heads/main/src/portfolio.js \
-            | jq -r .content | base64 -d > config.js && cat config.js
+            - name: Copy file
+              run: |
+                  cp website/src/portfolio.js config.js
+                  cat config.js
 
-    #   - name: Setup Python
-    #     uses: actions/setup-python@v5
-    #     with:
-    #       python-version: "3.11"
+        #   - name: Setup Python
+        #     uses: actions/setup-python@v5
+        #     with:
+        #       python-version: "3.11"
 
-    #   - name: Generate README
-    #     run: python generate_readme.py
+        #   - name: Generate README
+        #     run: python generate_readme.py
 
-    #   - name: Commit changes
-    #     run: |
-    #       git config user.name github-actions
-    #       git config user.email github-actions@github.com
+        #   - name: Commit changes
+        #     run: |
+        #       git config user.name github-actions
+        #       git config user.email github-actions@github.com
 
-    #       git add README.md
+        #       git add README.md
 
-    #       git diff --cached --quiet || (
-    #         git commit -m "Auto-update README"
-    #         git push
-    #       )
+        #       git diff --cached --quiet || (
+        #         git commit -m "Auto-update README"
+        #         git push
+        #       )
