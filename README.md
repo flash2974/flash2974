@@ -74,13 +74,13 @@
 
 ###
 
-## 🚀 Featured Projects
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | `Python, TensorFlow/Keras, Deep Learning` | [🔗 Source](https://github.com/flash2974/BrainTumor) |
-| **Edge-Cloud Social Network deployement** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I am developing a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | `Python, Docker Swarm, Grid'5000` | [🔗 Source](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud) |
-| **Real-Time Drawing Recognition** | A web-based application capable of recognizing drawings in real-time. Built using 3 different CNN architectures and one MLP, trained on 10 QuickDraw object categories. | `Python, TensorFlow/Keras, Deep Learning` | [🔗 Source](https://github.com/flash2974/QuickDrawCNN) |
-| **University Sports Bot** | Developed an automation bot to handle registration for university sports slots using Python and Flask. Deployed using Docker and Docker Compose | `Python, Flask, Automation, Requests, Docker Compose` | [🔗 Source](https://github.com/flash2974/reserverCreneauSUAPS) |
-| **Tic-Tac-Toe AI** | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making. | `Go, Minimax, Negamax, Algorithmics` | [🔗 Source](https://github.com/flash2974/TicTacToe_exploration) |
-| **University Menu Automation** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. Features dynamic image generation using PIL, and fully containerized with Docker & Docker Compose. | `Python, Docker, PIL, Web Scraping` | [🔗 Source](https://github.com/flash2974/Menu_ru) |
-| **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. | `Algorithmics, Teamwork` |  |
+## 🚀 My projects
+| Project | Description | Link |
+|---------|-------------|------|
+| **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | [🔗 Source](https://github.com/flash2974/BrainTumor) |
+| **Edge-Cloud Social Network deployement** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I am developing a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | [🔗 Source](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud) |
+| **Real-Time Drawing Recognition** | A web-based application capable of recognizing drawings in real-time. Built using 3 different CNN architectures and one MLP, trained on 10 QuickDraw object categories. | [🔗 Source](https://github.com/flash2974/QuickDrawCNN) |
+| **University Sports Bot** | Developed an automation bot to handle registration for university sports slots using Python and Flask. Deployed using Docker and Docker Compose | [🔗 Source](https://github.com/flash2974/reserverCreneauSUAPS) |
+| **Tic-Tac-Toe AI** | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making. | [🔗 Source](https://github.com/flash2974/TicTacToe_exploration) |
+| **University Menu Automation** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. Features dynamic image generation using PIL, and fully containerized with Docker & Docker Compose. | [🔗 Source](https://github.com/flash2974/Menu_ru) |
+| **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. |  |
