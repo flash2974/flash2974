@@ -1,5 +1,6 @@
 <h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
 Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations (Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations)
+
 ###
 
 <div align="center">
