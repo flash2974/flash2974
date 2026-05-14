@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Nathan Domenichini and I'm a Computer Engineering Student, from Nantes, France 🇫🇷</h2>
-
+<h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
+Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations (Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations)
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="250" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -13,6 +13,16 @@
 
 ###
 
+```
+I am Nathan Domenichini, a Computer Engineering student currently in my 4th year (Master's level) at Polytech Nantes.
+With a strong background in mathematics and computer science, I am actively seeking an internship to apply my skills in a professional environment.
+While my main interests lie in back-end development and computational work, I am also comfortable handling front-end tasks when needed.
+I have a strong interest in Machine Learning, particularly Deep Learning, and I am especially drawn to applications in bioinformatics.
+Outside of coding, I am an avid sports enthusiast.
+I practice many sports, including alpine skiing, wingfoiling, downhill biking, ice skating, and climbing, or origami.
+I also love traveling around the world.
+I have lived in several regions of France (including Martinique, Guadeloupe, and Haute-Savoie) and have traveled through many countries.
+```
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" title="VSCode" />
   <img width="12" />
@@ -45,9 +55,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow/Keras" title="TensorFlow/Keras" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy" title="SQLAlchemy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" />
   <img width="12" />
   <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy" title="SQLAlchemy" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" title="Flask" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" title="NumPy" />
@@ -89,4 +101,4 @@
 | **University Sports Bot** | Developed an automation bot to handle registration for university sports slots using Python and Flask. Deployed using Docker and Docker Compose | [🔗](https://github.com/flash2974/reserverCreneauSUAPS) |
 | **Tic-Tac-Toe AI** | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making. | [🔗](https://github.com/flash2974/TicTacToe_exploration) |
 | **University Menu Automation** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. Features dynamic image generation using PIL, and fully containerized with Docker & Docker Compose. | [🔗](https://github.com/flash2974/Menu_ru) |
-| **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. |  |
+| **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. | N/A |
