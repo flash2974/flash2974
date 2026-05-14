@@ -51,10 +51,8 @@ def generate_readme():
     tech_html.append('</div>')
 
     md = [
-        f'<h2 align="left">{greeting["intro"]} <span style="color:purple">{greeting["name"]} </span></h2>',
-        greeting["message"],
-        '',
-        about["autobiography"],
+        f'<h2 align="left">{greeting["intro"]} <span style="color:#7F39CD">{greeting["name"]} </span></h2>',
+        f'{greeting["message"][0]} ({greeting["message"][0]})'
         '',
         '###',
         '',
@@ -68,7 +66,11 @@ def generate_readme():
         '<img align="left" height="150" src="https://avatars.githubusercontent.com/flash2974" alt="Profile Picture" />',
         '',
         '###',
-        ''
+        '',
+        
+        '```',
+        ".\n".join(' '.join(about["autobiography"]).strip().split('. ')),
+        '```'
     ]
 
     md.extend(tech_html)
@@ -111,6 +113,8 @@ def generate_readme():
             if l["type"] in ["git", "gitlab"]:
                 source_link = f"[🔗]({l['url']})"
                 break
+        if not source_link:
+            source_link = "N/A"
         
         md.append(f"| **{proj['projectName']}** | {proj['description']} | {source_link} |")
 
