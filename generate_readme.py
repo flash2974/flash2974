@@ -47,7 +47,7 @@ def generate_readme():
     tech_html.append('</div>')
 
     md = [
-        f'<h2 align="left">Hi 👋! My name is {greeting["name"]} and I\'m a Computer Engineering Student, from Nantes, France 🇫🇷.</h2>',
+        f'<h2 align="left">Hi 👋! My name is {greeting["name"]} and I\'m a Computer Engineering Student, from Nantes, France 🇫🇷</h2>',
         '',
         '###',
         '',
@@ -79,6 +79,9 @@ def generate_readme():
         f'  <a href=\"mailto:{socials["email"]}\" target="_blank">',
         '    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />',
         '  </a>',
+        '  <a href="https://flash2974.github.io/" target="_blank">',
+        '    <img src="https://img.shields.io/static/v1?message=My portfolio&label=&color=7F39CD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />',
+        '  </a>',
         '</div>',
         '',
         '###',
@@ -98,7 +101,7 @@ def generate_readme():
         source_link = ""
         for l in proj.get("links", []):
             if l["type"] in ["git", "gitlab"]:
-                source_link = f"[🔗 Source]({l['url']})"
+                source_link = f"[🔗]({l['url']})"
                 break
         
         md.append(f"| **{proj['projectName']}** | {proj['description']} | {source_link} |")
