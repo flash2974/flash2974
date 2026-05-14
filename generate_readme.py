@@ -90,8 +90,8 @@ def generate_readme():
         '###',
         '',
         '## 🚀 My projects',
-        '| Project | Description | Tech Stack | Link |',
-        '|---------|-------------|------------|------|'
+        '| Project | Description | Link |',
+        '|---------|-------------|------|'
     ])
 
     for proj in works:
@@ -101,7 +101,7 @@ def generate_readme():
                 source_link = f"[🔗 Source]({l['url']})"
                 break
         
-        md.append(f"| **{proj['projectName']}** | {proj['description']} | `{proj['techStack']}` | {source_link} |")
+        md.append(f"| **{proj['projectName']}** | {proj['description']} | {source_link} |")
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(md))
