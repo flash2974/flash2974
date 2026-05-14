@@ -76,7 +76,7 @@
 <img src="https://raw.githubusercontent.com/flash2974/flash2974/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
+<br>
 ## 🚀 My projects
 | Project | Description | Link |
 |---------|-------------|------|
