@@ -20,7 +20,7 @@ jobs:
             -H "Authorization: Bearer ${{ secrets.WEBSITE_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
             https://raw.githubusercontent.com/flash2974/flash2974.github.io/refs/heads/main/src/portfolio.js \
-            | jq -r .content | base64 -d > config.json
+            | jq -r .content | base64 -d > config.js && cat config.js
 
     #   - name: Setup Python
     #     uses: actions/setup-python@v5
