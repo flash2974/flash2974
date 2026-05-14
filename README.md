@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://flash2974.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=portfolio&label=&color=7F39CD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=My portfolio&label=&color=7F39CD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
 
@@ -76,9 +76,7 @@
 <img src="https://raw.githubusercontent.com/flash2974/flash2974/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
 <br>
-
 ## 🚀 My projects
 | Project | Description | Link |
 |---------|-------------|------|
