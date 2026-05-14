@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="200" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="200" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -84,7 +84,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | [🔗](https://github.com/flash2974/BrainTumor) |
-| **Edge-Cloud Social Network deployement** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I am developing a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | [🔗](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud) |
+| **Edge-Cloud Social Network deployment** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I developed a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | [🔗](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud) |
 | **Real-Time Drawing Recognition** | A web-based application capable of recognizing drawings in real-time. Built using 3 different CNN architectures and one MLP, trained on 10 QuickDraw object categories. | [🔗](https://github.com/flash2974/QuickDrawCNN) |
 | **University Sports Bot** | Developed an automation bot to handle registration for university sports slots using Python and Flask. Deployed using Docker and Docker Compose | [🔗](https://github.com/flash2974/reserverCreneauSUAPS) |
 | **Tic-Tac-Toe AI** | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making. | [🔗](https://github.com/flash2974/TicTacToe_exploration) |
