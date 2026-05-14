@@ -16,7 +16,7 @@ ICON_MAP = {
     "Make & CMake": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg",
     "Git": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
     "TensorFlow/Keras": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg",
-    "Vue.js (just a lil bit !)": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+    "Vue.js": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
     "SQLAlchemy": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg",
     "Flask": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
     "NumPy": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg",
@@ -51,13 +51,16 @@ def generate_readme():
     tech_html.append('</div>')
 
     md = [
-        f'<h2 align="left">Hi 👋! My name is {greeting["name"]} and I\'m a Computer Engineering Student, from Nantes, France 🇫🇷</h2>',
+        f'<h2 align="left">{greeting["intro"]} <span style="color:purple">{greeting["name"]} </span></h2>',
+        greeting["message"],
+        '',
+        about["autobiography"],
         '',
         '###',
         '',
         '<div align="center">',
-        '  <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="250" alt="stats graph"  />',
-        '  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="250" alt="languages graph"  />',
+        '  <img src="https://raw.githubusercontent.com/flash2974/flash2974/stats-output/stats.svg" height="200" alt="stats graph"  />',
+        '  <img src="https://raw.githubusercontent.com/flash2974/flash2974/languages-output/languages.svg" height="200" alt="languages graph"  />',
         '</div>',
         '',
         '###',
