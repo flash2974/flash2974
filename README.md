@@ -19,7 +19,7 @@ With a strong background in mathematics and computer science, I am actively seek
 While my main interests lie in back-end development and computational work, I am also comfortable handling front-end tasks when needed.
 I have a strong interest in Machine Learning, particularly Deep Learning, and I am especially drawn to applications in bioinformatics.
 Outside of coding, I am an avid sports enthusiast.
-I practice many sports, including alpine skiing, wingfoiling, downhill biking, ice skating, and climbing, or origami.
+I'm good at alpine skiing, wingfoil, downhill bike, ice skating, climbing, ...
 I also love traveling around the world.
 I have lived in several regions of France (including Martinique, Guadeloupe, and Haute-Savoie) and have traveled through many countries.
 ```
