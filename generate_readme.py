@@ -89,7 +89,7 @@ def generate_readme():
         '',
         '<br clear="both">',
         '',
-        '##My projects',
+        '## My projects',
         '| Project | Description | Link |',
         '|---------|-------------|------|'
     ])
