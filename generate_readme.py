@@ -53,13 +53,20 @@ def generate_readme():
     md = [
         f'<h2 align="left">{greeting["intro"]} <span style="color:#7F39CD">{greeting["name"]} </span></h2>',
         greeting["message"][0],
+        '',
         '###',
+        '',
         '<div align="center">',
         '[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=flash2974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My%20stats%20)](https://github-stats-extended.vercel.app/api?username=flash2974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My%20stats%20)',
         '</div>',
+        '',
         '###',
+        '',
         '<img align="left" height="150" src="https://avatars.githubusercontent.com/flash2974" alt="Profile Picture" />',
+        '',
         '###',
+        '',
+        
         '```',
         ".\n".join(' '.join(about["autobiography"]).strip().split('. ')),
         '```'
@@ -67,7 +74,9 @@ def generate_readme():
 
     md.extend(tech_html)
     md.extend([
+        '',
         '###',
+        '',
         '<div align="left">',
         f'  <a href="{socials["github"]}" target="_blank">',
         '    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />',
@@ -82,8 +91,16 @@ def generate_readme():
         '    <img src="https://img.shields.io/static/v1?message=My%20portfolio&label=&color=7F39CD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />',
         '  </a>',
         '</div>',
+        '',
+        '###',
+        '',
+        '<br clear="both">',
+        '',
+        '<img src="https://raw.githubusercontent.com/flash2974/flash2974/snake-output/snake.svg" alt="Snake animation" />',
+        '',
         '###',
         '<br clear="both">',
+        '',
         '## 🚀 My projects',
         '| Project | Description | Link |',
         '|---------|-------------|------|'
