@@ -1,5 +1,5 @@
 <h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
-Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations
+Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations.<br>Based in Nantes, France 🇫🇷
 
 ###
 
@@ -84,12 +84,7 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/flash2974/flash2974/snake-output/snake.svg" alt="Snake animation" />
-
-###
-<br clear="both">
-
-## 🚀 My projects
+##My projects
 | Project | Description | Link |
 |---------|-------------|------|
 | **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | [🔗](https://github.com/flash2974/BrainTumor) |
