@@ -1,16 +1,12 @@
 <h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
 Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations
-
 ###
-
+<div align="center">
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=flash2974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My%20stats%20)](https://github-stats-extended.vercel.app/api?username=flash2974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My%20stats%20)
-
+</div>
 ###
-
 <img align="left" height="150" src="https://avatars.githubusercontent.com/flash2974" alt="Profile Picture" />
-
 ###
-
 ```
 I am Nathan Domenichini, a Computer Engineering student currently in my 4th year (Master's level) at Polytech Nantes.
 With a strong background in mathematics and computer science, I am actively seeking an internship to apply my skills in a professional environment.
@@ -63,9 +59,7 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" title="NumPy" />
   <img width="12" />
 </div>
-
 ###
-
 <div align="left">
   <a href="https://github.com/flash2974" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
@@ -80,14 +74,8 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
     <img src="https://img.shields.io/static/v1?message=My%20portfolio&label=&color=7F39CD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
 ###
 <br clear="both">
-
 ## 🚀 My projects
 | Project | Description | Link |
 |---------|-------------|------|
