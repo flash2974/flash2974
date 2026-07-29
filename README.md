@@ -3,9 +3,7 @@ Computer Engineering Student at Polytech Nantes (Master's level). Passionate abo
 
 ###
 
-<div align="center">
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=flash2974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My%20stats%20)](https://github-stats-extended.vercel.app/api?username=flash2974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My%20stats%20)
-</div>
 
 ###
 
