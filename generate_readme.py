@@ -37,17 +37,13 @@ def generate_readme():
     works = data[5]
 
     tech_html = ['<div align="left">']
-    icon_count = 0
     for stack_key in ["toolStack", "techStack", "frameWorkStack"]:
         stack = about.get(stack_key, [])
         for item in stack:
             tech_name = item[1]
             if tech_name in ICON_MAP:
-                if icon_count > 0 and icon_count % 8 == 0:
-                    tech_html.append('  <br>')
                 tech_html.append(f'  <img src="{ICON_MAP[tech_name]}" height="30" alt="{tech_name}" title="{tech_name}" />')
                 tech_html.append('  <img width="12" />')
-                icon_count += 1
     tech_html.append('</div>')
 
     md = [
