@@ -21,7 +21,6 @@ I'm good at alpine skiing, wingfoil, downhill bike, ice skating, climbing, ...
 I also love traveling around the world.
 I have lived in several regions of France (including Martinique, Guadeloupe, and Haute-Savoie) and have traveled through many countries.
 ```
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" title="VSCode" />
   <img width="12" />
@@ -89,17 +88,15 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
 <img src="https://raw.githubusercontent.com/flash2974/flash2974/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
 <br clear="both">
 
 ## 🚀 My projects
-
-| Project                                  | Description                                                                                                                                                                                                                                    | Link                                                     |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **Brain tumor detection**                | Brain tumor detection with CNN, ResNet and ViT models                                                                                                                                                                                          | [🔗](https://github.com/flash2974/BrainTumor)            |
-| **Edge-Cloud Social Network deployment** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I developed a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | [🔗](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud)  |
-| **Real-Time Drawing Recognition**        | A web-based application capable of recognizing drawings in real-time. Built using 3 different CNN architectures and one MLP, trained on 10 QuickDraw object categories.                                                                        | [🔗](https://github.com/flash2974/QuickDrawCNN)          |
-| **University Sports Bot**                | Developed an automation bot to handle registration for university sports slots using Python and Flask. Deployed using Docker and Docker Compose                                                                                                | [🔗](https://github.com/flash2974/reserverCreneauSUAPS)  |
-| **Tic-Tac-Toe AI**                       | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making.                                                                     | [🔗](https://github.com/flash2974/TicTacToe_exploration) |
-| **University Menu Automation**           | An Instagram bot that scrapes daily menus from the university website and posts them to stories. Features dynamic image generation using PIL, and fully containerized with Docker & Docker Compose.                                            | [🔗](https://github.com/flash2974/Menu_ru)               |
-| **Project PolyHash**                     | Team project solving the Google Hash Code 2015 challenge.                                                                                                                                                                                      | N/A                                                      |
+| Project | Description | Link |
+|---------|-------------|------|
+| **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | [🔗](https://github.com/flash2974/BrainTumor) |
+| **Edge-Cloud Social Network deployment** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I developed a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | [🔗](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud) |
+| **Real-Time Drawing Recognition** | A web-based application capable of recognizing drawings in real-time. Built using 3 different CNN architectures and one MLP, trained on 10 QuickDraw object categories. | [🔗](https://github.com/flash2974/QuickDrawCNN) |
+| **University Sports Bot** | Developed an automation bot to handle registration for university sports slots using Python and Flask. Deployed using Docker and Docker Compose | [🔗](https://github.com/flash2974/reserverCreneauSUAPS) |
+| **Tic-Tac-Toe AI** | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making. | [🔗](https://github.com/flash2974/TicTacToe_exploration) |
+| **University Menu Automation** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. Features dynamic image generation using PIL, and fully containerized with Docker & Docker Compose. | [🔗](https://github.com/flash2974/Menu_ru) |
+| **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. | N/A |
