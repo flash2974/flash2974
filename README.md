@@ -1,5 +1,5 @@
 <h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
-Final-Year Computer Engineering & Research Master's Student. Passionate about Biomedical AI, High-Performance Inference & Scientific Computing. Based in France 🇫🇷.
+Final-Year Computer Engineering & Research Master's Student. Passionate about Biomedical, AI, automations. Based in France 🇫🇷.
 
 #### Seeking a 22-week R&D Internship starting Jan/Feb 2027
 <br>
