@@ -1,6 +1,6 @@
 <h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
-Computer Engineering Student at Polytech Nantes (Master's level). Passionate about bio-medicine, AI, algorithms, automations.<br>Based in Nantes, France 🇫🇷
-
+Final-Year Computer Engineering & Research Master's Student. Passionate about Biomedical AI, High-Performance Inference & Scientific Computing. Based in France 🇫🇷.
+## Seeking a 22-week R&D Internship starting Jan/Feb 2027
 ###
 
 <p align="center">
@@ -11,18 +11,15 @@ Computer Engineering Student at Polytech Nantes (Master's level). Passionate abo
 ###
 
 ```
-I am Nathan Domenichini, a Computer Engineering student currently in my 4th year (Master's level) at Polytech Nantes.
-With a strong background in mathematics and computer science, I am actively seeking an internship to apply my skills in a professional environment.
+I am a final-year Computer Engineering student at Polytech Nantes pursuing a dual Master's degree in Smart Computing.
 While my main interests lie in back-end development and computational work, I am also comfortable handling front-end tasks when needed.
 I have a strong interest in Machine Learning, particularly Deep Learning, and I am especially drawn to applications in bioinformatics.
 Outside of coding, I am an avid sports enthusiast.
-I'm good at alpine skiing, wingfoil, downhill bike, ice skating, climbing, ...
+I'm good at alpine skiing, wingfoil, downhill bike, ice skating, climbing...
 I also love traveling around the world.
 I have lived in several regions of France (including Martinique, Guadeloupe, and Haute-Savoie) and have traveled through many countries.
 ```
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" title="VSCode" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" title="Linux" />
@@ -33,9 +30,9 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C & C++" title="C & C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" title="Go" />
   <img width="12" />
@@ -51,13 +48,11 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow/Keras" title="TensorFlow/Keras" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy" title="SQLAlchemy" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" title="Flask" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" title="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" />
   <img width="12" />
 </div>
 
