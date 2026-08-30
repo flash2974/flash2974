@@ -1,24 +1,13 @@
 <h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
 Final-Year Computer Engineering & Research Master's Student. Passionate about Biomedical AI, High-Performance Inference & Scientific Computing. Based in France 🇫🇷.
-## Seeking a 22-week R&D Internship starting Jan/Feb 2027
-###
 
-<p align="center">
-<img height="195" src="https://avatars.githubusercontent.com/flash2974" alt="Profile Picture" />
-<img src="https://github-stats-extended.vercel.app/api?username=flash2974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My%20stats%20" alt="GitHub Stats">
-</p>
-
-###
-
-```
+#### Seeking a 22-week R&D Internship starting Jan/Feb 2027
+<br>
 I am a final-year Computer Engineering student at Polytech Nantes pursuing a dual Master's degree in Smart Computing.
-While my main interests lie in back-end development and computational work, I am also comfortable handling front-end tasks when needed.
-I have a strong interest in Machine Learning, particularly Deep Learning, and I am especially drawn to applications in bioinformatics.
-Outside of coding, I am an avid sports enthusiast.
-I'm good at alpine skiing, wingfoil, downhill bike, ice skating, climbing...
-I also love traveling around the world.
-I have lived in several regions of France (including Martinique, Guadeloupe, and Haute-Savoie) and have traveled through many countries.
-```
+While my main interests lie in back-end development and computational work, I am also comfortable handling front-end tasks when needed. I have a strong interest in Machine Learning, particularly Deep Learning, and I am especially drawn to applications in bioinformatics.
+Outside of coding, I am an avid sports enthusiast. I'm good at alpine skiing, wingfoil, downhill bike, ice skating, climbing...
+I also love traveling around the world. I have lived in several regions of France (including Martinique, Guadeloupe, and Haute-Savoie) and have traveled through many countries.
+<br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
   <img width="12" />
@@ -55,26 +44,20 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" />
   <img width="12" />
 </div>
-
-###
-
 <div align="left">
-  <a href="https://github.com/flash2974" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nathan-domenichini-778832278/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:nathan.domenichini@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://flash2974.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20portfolio&label=&color=7F39CD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
-  </a>
+<a href="https://github.com/flash2974" target="_blank">
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+</a>
+<a href="https://www.linkedin.com/in/nathan-domenichini-778832278/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="mailto:nathan.domenichini@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+<a href="https://flash2974.github.io/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=My%20portfolio&label=&color=7F39CD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+</a>
 </div>
-
-###
-
 <br clear="both">
 
 ## My projects
