@@ -82,7 +82,7 @@ I have lived in several regions of France (including Martinique, Guadeloupe, and
 
 <br clear="both">
 
-##My projects
+## My projects
 | Project | Description | Link |
 |---------|-------------|------|
 | **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | [🔗](https://github.com/flash2974/BrainTumor) |
