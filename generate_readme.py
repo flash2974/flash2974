@@ -21,6 +21,7 @@ ICON_MAP = {
     "Flask": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
     "NumPy": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg",
     "VSCode": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    "Pytorch" : "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pytorch/pytorch-original.svg"
 }
 
 def generate_readme():
@@ -48,7 +49,8 @@ def generate_readme():
 
     md = [
         f'<h2 align="left">{greeting["intro"]} <span style="color:#7F39CD">{greeting["name"]} </span></h2>',
-        '<br>'.join(greeting["message"]),
+        greeting["message"],
+        f'## {greeting["internship"]}'
         '',
         '###',
         '',
