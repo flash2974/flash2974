@@ -73,5 +73,3 @@ I also love traveling around the world. I have lived in several regions of Franc
 | **University Menu Bot** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. | [🔗](https://github.com/flash2974/Menu_ru) |
 | **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. | N/A |
 | **DGUBot** | A comprehensive Discord bot featuring music blind tests, mini-games, image-to-emoji converters, and social media scrapers. | [🔗](https://github.com/flash2974/DGUBot) |
-
-<span style="font-size: 0.8em; color: gray;">Votre texte ici</span>
