@@ -64,11 +64,12 @@ I also love traveling around the world. I have lived in several regions of Franc
 | Project | Description | Link |
 |---------|-------------|------|
 | **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | [🔗](https://github.com/flash2974/BrainTumor) |
+| **Hyblab** | Group project in collaboration with the Nantes School of Design aimed at developing a mobile app for food reviews, proposed by a journalist from Tours. | [🔗](https://github.com/flash2974/Hyblab2026) |
 | **Edge-Cloud Social Network deployment** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I developed a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | [🔗](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud) |
+| **KBDManager** | A little tool that turns off the keyboard backlight after a certain amount of time. Because this doesn't exist on Linux. | [🔗](https://github.com/flash2974/KBDManager) |
 | **Real-Time Drawing Recognition** | A web-based application capable of recognizing drawings in real-time. Built using 3 different CNN architectures and one MLP, trained on 10 QuickDraw object categories. | [🔗](https://github.com/flash2974/QuickDrawCNN) |
 | **University Sports Bot** | Developed an automation bot to handle registration for university sports slots using Python and Flask. Deployed using Docker and Docker Compose | [🔗](https://github.com/flash2974/reserverCreneauSUAPS) |
 | **Tic-Tac-Toe AI** | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making. | [🔗](https://github.com/flash2974/TicTacToe_exploration) |
-| **University Menu Automation** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. Features dynamic image generation using PIL, and fully containerized with Docker & Docker Compose. | [🔗](https://github.com/flash2974/Menu_ru) |
+| **University Menu Bot** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. | [🔗](https://github.com/flash2974/Menu_ru) |
 | **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. | N/A |
-
--# test
+| **DGUBot** | A comprehensive Discord bot featuring music blind tests, mini-games, image-to-emoji converters, and social media scrapers. | [🔗](https://github.com/flash2974/DGUBot) |
