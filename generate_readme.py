@@ -92,6 +92,8 @@ def generate_readme():
         md.append(f"| **{proj['projectName']}** | {proj['description']} | {source_link} |")
         
     bottom = ['', '<sub>This README was generated automatically with GitHub Actions.</sub>']
+    
+    md.extend(bottom)
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(md))
