@@ -70,3 +70,5 @@ I also love traveling around the world. I have lived in several regions of Franc
 | **Tic-Tac-Toe AI** | Implemented a Tic-Tac-Toe game engine in Go (Golang) to explore the language. Features Minimax and Negamax algorithms with Alpha-Beta pruning for optimal decision making. | [🔗](https://github.com/flash2974/TicTacToe_exploration) |
 | **University Menu Automation** | An Instagram bot that scrapes daily menus from the university website and posts them to stories. Features dynamic image generation using PIL, and fully containerized with Docker & Docker Compose. | [🔗](https://github.com/flash2974/Menu_ru) |
 | **Project PolyHash** | Team project solving the Google Hash Code 2015 challenge. | N/A |
+
+-# test
