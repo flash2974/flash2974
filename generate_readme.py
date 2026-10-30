@@ -32,10 +32,10 @@ def generate_readme():
         print(e)
         return
     
-    greeting = data[0]
-    socials = data[1]
-    about = data[2]
-    works = data[5]
+    greeting = data["greeting"]
+    socials = data["socialMediaLinks"]
+    about = data["rawAbout"]
+    works = data["works"]
 
     tech_html = ['<div align="left">']
     for stack_key in ["toolStack", "techStack", "frameWorkStack"]:
