@@ -26,7 +26,7 @@ ICON_MAP = {
 
 def generate_readme():
     try:
-        with open("portfolio.json", "r", encoding="utf-8") as f:
+        with open("portfolio_en.json", "r", encoding="utf-8") as f:
             data = json.load(f)
     except Exception as e:
         print(e)

@@ -30,7 +30,7 @@ jobs:
 
             - name: Copy file
               run: |
-                  cp website/portfolio.json portfolio.json
+                  cp website/portfolio_en.json portfolio_en.json
 
             - name: Setup Python
               uses: actions/setup-python@v5
