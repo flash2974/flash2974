@@ -63,7 +63,8 @@ I also love traveling around the world. I have lived in several regions of Franc
 ## My projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models | [🔗](https://github.com/flash2974/BrainTumor) |
+| **Portfolio automation** | I just have to update one JSON file to update my PDF resume (thanks to Typst), my web portfolio and my GitHub profile page. | N/A |
+| **Brain tumor detection** | Brain tumor detection with CNN, ResNet and ViT models. | [🔗](https://github.com/flash2974/BrainTumor) |
 | **Hyblab** | Group project in collaboration with the Nantes School of Design aimed at developing a mobile app for food reviews, proposed by a journalist from Tours. | [🔗](https://github.com/flash2974/Hyblab2026) |
 | **Edge-Cloud Social Network deployment** | Group project leveraging the Grid'5000 testbed (distributed network across France) to benchmark Edge and Cloud placement scenarios. I developed a custom Python module enabling 'one-click' automated deployment of jobs on distributed nodes. | [🔗](https://gitlab.univ-nantes.fr/E24A014X/edge-cloud) |
 | **KBDManager** | A little tool that turns off the keyboard backlight after a certain amount of time. Because this doesn't exist on Linux. | [🔗](https://github.com/flash2974/KBDManager) |
