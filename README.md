@@ -1,7 +1,7 @@
 <h2 align="left">Hello ! I am <span style="color:#7F39CD">Nathan Domenichini </span></h2>
-Final-Year Computer Engineering & Research Master's Student. Passionate about bioinformatics, AI, automations.
+Final-Year Computer Engineering & Research Master's Student. Focused on Deep Learning for Healthcare & Bioinformatics.
 
-#### Seeking a 6-month R&D Internship starting Jan/Feb 2027
+#### Seeking a 6-month R&D Master's Thesis Internship (early 2027) - Deep Learning & Bioinformatics / Health
 <br>
 I am a final-year Computer Engineering student at Polytech Nantes pursuing a dual Master's degree in Smart Computing.
 While my main interests lie in back-end development and computational work, I am also comfortable handling front-end tasks when needed. I have a strong interest in Machine Learning, particularly Deep Learning, and I am especially drawn to applications in bioinformatics.
@@ -9,39 +9,31 @@ Outside of coding, I am an avid sports enthusiast. I'm good at alpine skiing, wi
 I also love traveling around the world. I have lived in several regions of France (including Martinique, Guadeloupe, and Haute-Savoie) and have traveled through many countries.
 <br><br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="Make & CMake" title="Make & CMake" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="Make & CMake" title="Make & CMake" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C & C++" title="C & C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" title="Go" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" title="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" title="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow/Keras" title="TensorFlow/Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow/Keras" title="TensorFlow/Keras" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" title="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" title="Flask" />
   <img width="12" />
 </div>
 <div align="left">
@@ -63,6 +55,7 @@ I also love traveling around the world. I have lived in several regions of Franc
 ## My projects
 | Project | Description | Link |
 |---------|-------------|------|
+| **Inline number slider** | A VSCode extension that lets you increment or decrement any number using a keyboard shortcut or a small pop-up that appears when you hover over it with the mouse. | [🔗](https://github.com/flash2974/vscode-slider/) |
 | **Portfolio automation** | I just have to update one JSON file to update my PDF resume (thanks to Typst), my web portfolio and my GitHub profile page. | N/A |
 | **Brain tumor detection** | Custom implementation of Deep Learning models : CNN, ResNet and ViT for brain tumor classification, on MRI datasets. | [🔗](https://github.com/flash2974/BrainTumor) |
 | **Hyblab** | Group project in collaboration with the Nantes School of Design aimed at developing a mobile app for food reviews, proposed by a journalist. | [🔗](https://github.com/flash2974/Hyblab2026) |
